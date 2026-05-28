@@ -1,9 +1,15 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
-import { TypeOrmModule } from '@nestjs/typeorm';
+import { TypeOrmModule, TypeOrmModuleOptions } from '@nestjs/typeorm';
 import { ThrottlerModule } from '@nestjs/throttler';
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
+import { existsSync } from 'fs';
+
+// Optionally serve the built React SPA from the same Node process.
+// Copy the frontend `dist/` into `<backend>/client` (or set CLIENT_DIR).
+const clientDir = process.env.CLIENT_DIR || join(process.cwd(), 'client');
+const serveSpa = existsSync(join(clientDir, 'index.html'));
 
 import appConfig from './config/app.config';
 import { DatabaseSeeder } from './config/database.seeder';
@@ -63,12 +69,13 @@ import { HomeSectionsModule } from './modules/home-sections/home-sections.module
       imports: [ConfigModule],
       inject: [ConfigService],
       useFactory: (cfg: ConfigService) => ({
-        type: 'postgres',
+        type: cfg.get<'mysql' | 'postgres'>('app.database.type') ?? 'mysql',
         host: cfg.get('app.database.host'),
         port: cfg.get<number>('app.database.port'),
         username: cfg.get('app.database.username'),
         password: cfg.get('app.database.password'),
         database: cfg.get('app.database.database'),
+        charset: 'utf8mb4',
         entities: [User, Category, Product, Inquiry, Media, ContentPage, Language, HomeSection],
         synchronize: cfg.get<boolean>('app.database.synchronize'),
         logging: cfg.get<boolean>('app.database.logging'),
@@ -80,7 +87,7 @@ import { HomeSectionsModule } from './modules/home-sections/home-sections.module
             }
           : false,
         autoLoadEntities: true,
-      }),
+      } as TypeOrmModuleOptions),
     }),
 
     // ── Static file serving for uploads ──────────────────
@@ -92,6 +99,16 @@ import { HomeSectionsModule } from './modules/home-sections/home-sections.module
         immutable: true,
       },
     }),
+
+    // ── Serve the built React SPA (optional) ──────────────
+    ...(serveSpa
+      ? [
+          ServeStaticModule.forRoot({
+            rootPath: clientDir,
+            exclude: ['/api/{*path}', '/uploads/{*path}'],
+          }),
+        ]
+      : []),
 
     // ── Feature modules ───────────────────────────────────
     TelegramModule,

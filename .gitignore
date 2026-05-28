@@ -5,6 +5,8 @@ node_modules/
 dist/
 dist-ssr/
 build/
+# Built React SPA staged into the backend for single-process serving
+client/
 
 # Real secrets (templates like .env.example / .env.production are kept)
 .env

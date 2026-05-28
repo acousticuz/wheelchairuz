@@ -15,9 +15,10 @@ export default registerAs('app', () => ({
   nodeEnv: process.env.NODE_ENV || 'development',
 
   database: {
+    type: (process.env.DB_TYPE || 'mysql') as 'mysql' | 'postgres',
     host: process.env.DB_HOST || 'localhost',
-    port: parseInt(process.env.DB_PORT, 10) || 5432,
-    username: process.env.DB_USERNAME || 'postgres',
+    port: parseInt(process.env.DB_PORT, 10) || 3306,
+    username: process.env.DB_USERNAME || 'root',
     password: process.env.DB_PASSWORD,
     database: process.env.DB_DATABASE || 'wheelchair_db',
     synchronize: !isProduction && process.env.DB_SYNC === 'true',

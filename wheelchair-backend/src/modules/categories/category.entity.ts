@@ -15,7 +15,7 @@ export class Category {
   @Column()
   icon: string;
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   name: {
     uz: string;
     ru: string;

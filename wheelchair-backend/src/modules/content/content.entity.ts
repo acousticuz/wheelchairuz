@@ -11,13 +11,13 @@ export class ContentPage {
   @Column({ unique: true })
   slug: string;
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   title: { uz: string; ru: string; en: string };
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   body: { uz: string; ru: string; en: string };
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   meta: Record<string, any>;
 
   @Column({ default: true })

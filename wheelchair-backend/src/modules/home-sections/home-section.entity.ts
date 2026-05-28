@@ -40,7 +40,7 @@ export class HomeSection {
   isActive: boolean;
 
   // Free-form per-type settings (texts in uz/ru/en, image URLs, options).
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   settings: Record<string, unknown>;
 
   @CreateDateColumn()

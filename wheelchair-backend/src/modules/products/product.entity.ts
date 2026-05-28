@@ -15,13 +15,13 @@ export class Product {
   @Column()
   sku: string;
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   name: { uz: string; ru: string; en: string };
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   excerpt: { uz: string; ru: string; en: string };
 
-  @Column({ type: 'jsonb', default: {} })
+  @Column({ type: 'json', default: () => "('{}')" })
   description: { uz: string; ru: string; en: string };
 
   @Column({ type: 'decimal', precision: 15, scale: 2, default: 0 })
@@ -36,7 +36,7 @@ export class Product {
   @Column({ type: 'simple-array', nullable: true })
   images: string[];
 
-  @Column({ type: 'jsonb', default: [] })
+  @Column({ type: 'json', default: () => "('[]')" })
   specs: Array<{
     label_uz: string;
     label_ru: string;
