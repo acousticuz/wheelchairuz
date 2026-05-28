@@ -64,6 +64,10 @@ export const translations = {
     about: {
       title: "Har bir harakatda erkinlik va qadr-qimmat.",
       subtitle: "O'zbekistonda qulay muhit yaratayotganmiz",
+      company: "Bizning kompaniya",
+      company_text: "«Sayqal» savdo-ishlab chiqarish korxonasi 2000-yilda tashkil etilgan. Korxona harakatlanish imkoniyati cheklangan insonlar uchun reabilitatsiya vositalarini ishlab chiqish va ishlab chiqarishga ixtisoslashgan.",
+      founded_label: "Tashkil etilgan yili",
+      experience_label: "Yillik tajriba",
       our_story: "Bizning tariximiz",
       story_title: "Bitta ehtiyojdan milliy missiyaga.",
       story_text: "Sayqal brendi ostida biz nafaqat reabilitatsiya uskunalarini ishlab chiqaramiz, balki imkoniyati cheklangan insonlar uchun to'siqlarsiz dunyo barpo etamiz.",
@@ -183,6 +187,10 @@ export const translations = {
     about: {
       title: "Свобода и достоинство в каждом движении.",
       subtitle: "Создаём доступную среду в Узбекистане",
+      company: "Наша компания",
+      company_text: "Торгово-производственное предприятие «Sayqal» основано в 2000 году. Предприятие специализируется на разработке и производстве средств реабилитации для людей с ограниченными функциями движения.",
+      founded_label: "Год основания",
+      experience_label: "Лет опыта",
       our_story: "Наша история",
       story_title: "От единственной потребности к национальной миссии.",
       story_text: "Под брендом Sayqal мы не просто производим реабилитационное оборудование — мы создаём мир без барьеров для людей с ограниченными возможностями.",
@@ -302,6 +310,10 @@ export const translations = {
     about: {
       title: "Dignity in Every Movement.",
       subtitle: "Building a more accessible Uzbekistan",
+      company: "Our Company",
+      company_text: "The Sayqal trade and manufacturing enterprise was founded in 2000. The company specializes in the development and production of rehabilitation equipment for people with limited mobility.",
+      founded_label: "Year Founded",
+      experience_label: "Years of Experience",
       our_story: "Our Story",
       story_title: "From a Single Need to a National Mission.",
       story_text: "Under the Sayqal brand, we don't just manufacture rehabilitation equipment — we build a barrier-free world for people with disabilities.",

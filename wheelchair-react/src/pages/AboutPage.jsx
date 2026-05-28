@@ -124,13 +124,39 @@ export default function AboutPage() {
             </div>
             <div className="absolute -bottom-8 -left-8 bg-surface-container-lowest p-6 rounded-2xl ambient-shadow hidden md:block max-w-[240px]">
               <div className="flex items-center gap-4 mb-2">
-                <span className="text-4xl font-black text-secondary">10+</span>
+                <span className="text-4xl font-black text-secondary">25+</span>
                 <span className="text-sm font-semibold leading-tight text-on-surface">{copy.desktopExperience[lang]}</span>
               </div>
             </div>
           </div>
         </div>
         <div className="absolute top-0 right-0 w-1/3 h-full bg-surface-container-low -z-0 rounded-l-[10rem]" />
+      </section>
+
+      {/* ── НАША КОМПАНИЯ / OUR COMPANY ── */}
+      <section className="py-16 md:py-24 bg-white">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
+            <div className="space-y-6">
+              <div className="flex items-center gap-3 text-secondary">
+                <Icon name="business" />
+                <span className="font-headline font-bold uppercase tracking-widest text-xs">{t('about.company')}</span>
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold text-primary font-headline">«Sayqal»</h2>
+              <p className="text-on-surface-variant text-lg leading-relaxed">{t('about.company_text')}</p>
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="bg-primary-container p-8 rounded-[2rem] text-white flex flex-col justify-center min-h-[170px]">
+                <span className="text-5xl font-black font-headline tracking-tighter">2000</span>
+                <p className="text-sm font-semibold opacity-80 mt-2">{t('about.founded_label')}</p>
+              </div>
+              <div className="bg-secondary p-8 rounded-[2rem] text-white flex flex-col justify-center min-h-[170px]">
+                <span className="text-5xl font-black font-headline tracking-tighter">25+</span>
+                <p className="text-sm font-semibold opacity-80 mt-2">{t('about.experience_label')}</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
 
       {/* ── MISSION & VALUES ── */}
