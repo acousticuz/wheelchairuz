@@ -13,7 +13,6 @@ const serveSpa = existsSync(join(clientDir, 'index.html'));
 
 import appConfig from './config/app.config';
 import { DatabaseSeeder } from './config/database.seeder';
-import { DatabaseIndexesService } from './config/database-indexes.service';
 
 import { User } from './modules/users/user.entity';
 import { Category } from './modules/categories/category.entity';
@@ -123,6 +122,6 @@ import { HomeSectionsModule } from './modules/home-sections/home-sections.module
     HealthModule,
     HomeSectionsModule,
   ],
-  providers: [DatabaseSeeder, DatabaseIndexesService],
+  providers: [DatabaseSeeder],
 })
 export class AppModule {}

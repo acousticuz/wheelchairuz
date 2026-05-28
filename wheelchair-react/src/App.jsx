@@ -15,6 +15,7 @@ import AdminDashboard from './pages/admin/AdminDashboard'
 import AdminProducts from './pages/admin/AdminProducts'
 import AdminInquiries from './pages/admin/AdminInquiries'
 import AdminHomeBuilder from './pages/admin/AdminHomeBuilder'
+import AdminAbout from './pages/admin/AdminAbout'
 import { AdminCategories, AdminContent, AdminMedia, AdminLanguages } from './pages/admin/AdminOtherPages'
 import { authApi, getToken, removeToken } from './hooks/useApi'
 
@@ -67,6 +68,7 @@ export default function App() {
             <Route index element={<Navigate to="/admin/dashboard" replace />} />
             <Route path="dashboard" element={<AdminDashboard />} />
             <Route path="home-builder" element={<AdminHomeBuilder />} />
+            <Route path="about" element={<AdminAbout />} />
             <Route path="products" element={<AdminProducts />} />
             <Route path="categories" element={<AdminCategories />} />
             <Route path="inquiries" element={<AdminInquiries />} />

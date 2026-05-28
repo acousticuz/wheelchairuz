@@ -1,5 +1,5 @@
 import {
-  Entity, PrimaryGeneratedColumn, Column,
+  Entity, PrimaryGeneratedColumn, Column, Index,
   CreateDateColumn, UpdateDateColumn,
 } from 'typeorm';
 
@@ -9,6 +9,7 @@ export enum InquiryStatus {
   ARCHIVED = 'archived',
 }
 
+@Index(['status', 'createdAt'])
 @Entity('inquiries')
 export class Inquiry {
   @PrimaryGeneratedColumn('uuid')

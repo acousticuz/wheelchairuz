@@ -1,8 +1,9 @@
 import {
-  Entity, PrimaryGeneratedColumn, Column,
+  Entity, PrimaryGeneratedColumn, Column, Index,
   CreateDateColumn,
 } from 'typeorm';
 
+@Index(['createdAt'])
 @Entity('media')
 export class Media {
   @PrimaryGeneratedColumn('uuid')

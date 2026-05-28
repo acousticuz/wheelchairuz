@@ -1,9 +1,10 @@
 import {
-  Entity, PrimaryGeneratedColumn, Column,
+  Entity, PrimaryGeneratedColumn, Column, Index,
   CreateDateColumn, UpdateDateColumn, OneToMany,
 } from 'typeorm';
 import { Product } from '../products/product.entity';
 
+@Index(['isActive', 'sortOrder', 'createdAt'])
 @Entity('categories')
 export class Category {
   @PrimaryGeneratedColumn('uuid')

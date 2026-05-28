@@ -7,6 +7,7 @@ import { inquiriesApi } from '../../hooks/useApi'
 const baseNavItems = [
   { href: '/admin/dashboard', icon: 'dashboard', label: 'Dashboard' },
   { href: '/admin/home-builder', icon: 'dashboard_customize', label: 'Bosh sahifa' },
+  { href: '/admin/about', icon: 'info', label: 'About sahifa' },
   { href: '/admin/products', icon: 'wheelchair_pickup', label: 'Products', badge: null },
   { href: '/admin/categories', icon: 'category', label: 'Categories' },
   { href: '/admin/inquiries', icon: 'mail', label: 'Messages', badge: null },
