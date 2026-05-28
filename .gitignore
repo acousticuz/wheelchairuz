@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Real secrets (templates like .env.example / .env.production are kept)
+.env
+.env.local
+*.local
+
+# Editor / tooling caches
+.cache/
+.cursor/
+.cursor-server/
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Archives / backups / misc
+*.zip
+.sudo_as_admin_successful

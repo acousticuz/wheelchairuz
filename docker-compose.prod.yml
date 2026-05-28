@@ -1,0 +1,48 @@
+# Production: tashqi PostgreSQL + backend + nginx (frontend).
+# 1) cp deploy.env.example .env.production  -> qiymatlarni to'ldiring
+# 2) docker compose -f docker-compose.prod.yml --env-file .env.production up -d --build
+
+services:
+  backend:
+    build:
+      context: ./wheelchair-backend
+      dockerfile: Dockerfile
+    container_name: wheelchair_api_prod
+    restart: unless-stopped
+    expose:
+      - '3000'
+    env_file:
+      - .env.production
+    volumes:
+      - ./wheelchair-backend/uploads:/app/uploads
+    healthcheck:
+      test:
+        [
+          'CMD-SHELL',
+          'node -e ''fetch("http://127.0.0.1:3000/api/v1/health").then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))''',
+        ]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  frontend:
+    build:
+      context: ./wheelchair-react
+      dockerfile: Dockerfile
+    container_name: wheelchair_web_prod
+    restart: unless-stopped
+    ports:
+      - '${FRONTEND_PUBLISH:-80}:80'
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ['CMD-SHELL', 'wget -q --spider http://127.0.0.1/ || exit 1']
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  uploads_data:

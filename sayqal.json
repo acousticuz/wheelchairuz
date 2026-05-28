@@ -1,0 +1,2506 @@
+{
+  "shop": {
+    "name": "SAYQAL",
+    "rating": 4.9,
+    "total_reviews": 2894,
+    "total_orders": 30035,
+    "phone": "+998 95 301 10 40",
+    "description": {
+      "uz": "Reabilitatsiya vositalari — nogironlar aravachalari, yurish moslamalari, qoltiq tayoqlar va hassalar.",
+      "ru": "Средства реабилитации — инвалидные коляски, ходунки, костыли и трости."
+    }
+  },
+  "products_count": 20,
+  "products": [
+    {
+      "id": 1019424,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Xonaga mo'ljallangan, orindiqli, kattalar uchun mexanik nogironlar aravachasi KKSD",
+        "ru": "Механическая инвалидная коляска для дома, с сиденьем, для взрослых (KKSD)"
+      },
+      "shortDescription": {
+        "uz": "Uy sharoitida qulay harakat uchun mustahkam, yig'iladigan mexanik aravacha.",
+        "ru": "Прочная складная механическая коляска для удобного передвижения дома."
+      },
+      "description": {
+        "uz": "Aravachaning tirsak qoygich va oyog qoyg'ichlarini xarakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o'rin almashtirishi uchun, yig'ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi.",
+        "ru": "Механическая коляска с ручным приводом для людей с ограниченными возможностями. Предназначена для передвижения на короткие расстояния дома и во дворе. Подвижные подлокотники и подножки облегчают пересадку, а складная конструкция удобна для перевозки в автомобиле."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "107 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "68 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "90 sm"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi umumiy kengligi",
+                "value": "35 sm"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "44 sm"
+              },
+              {
+                "label": "O'rindiq chuqurligi",
+                "value": "45 sm"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "40 sm"
+              },
+              {
+                "label": "Poldan o'rindiqqacha balandlik",
+                "value": "47 sm"
+              },
+              {
+                "label": "Old g'ildirak diametri",
+                "value": "18 sm"
+              },
+              {
+                "label": "Orqa g'ildirak diametri",
+                "value": "60 sm"
+              },
+              {
+                "label": "Orqa g'ildirak",
+                "value": "Damlanmaydigan"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "19 kg"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "120 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "107 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "68 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "90 см"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "35 см"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "44 см"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "45 см"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "40 см"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "47 см"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "18 см"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "60 см"
+              },
+              {
+                "label": "Заднее колесо",
+                "value": "Литое"
+              },
+              {
+                "label": "Вес",
+                "value": "19 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.9,
+      "reviews_count": 672,
+      "orders_count": 7000,
+      "images": [
+        "https://images.uzum.uz/cosc0mffrr80f2gk0l4g/original.jpg",
+        "https://images.uzum.uz/cosc0mc0u44tu6dod6og/original.jpg",
+        "https://images.uzum.uz/cosc0mc0u44tu6dod6o0/original.jpg",
+        "https://images.uzum.uz/cosc0mfj2e4ghqnq3ifg/original.jpg",
+        "https://images.uzum.uz/cosc0mfj2e4ghqnq3if0/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/xonaga-moljallangan-orindiqli-1019424?skuId=2997688",
+      "voucher_program": true
+    },
+    {
+      "id": 1019851,
+      "category": {
+        "uz": "Qoltiq tayoqlar",
+        "ru": "Костыли"
+      },
+      "title": {
+        "uz": "Qoltiq tayoqlari",
+        "ru": "Костыли"
+      },
+      "shortDescription": {
+        "uz": "Yurish va turishda tayanch beruvchi yengil va mustahkam qoltiq tayoqlari.",
+        "ru": "Лёгкие и прочные костыли для опоры при ходьбе и вставании."
+      },
+      "description": {
+        "uz": "Tayanch-harakat tizimi kasalliklari va shikastlanishlari uchun uning funktsiyalari buzilganda qo'llaniladi. Mahsulot alyuminiy, po'lat va turli qotishmalardan tayyorlanadi. Nogironlar uchun qoltiq tayoqlar qadim zamonlardan beri ma'lum bo'lib, ular uzog vaqt davomida yordamsiz harakat qilish va turishda muammolarga duch kelgan jarohatlanganlarga yordam berishgan.",
+        "ru": "Костыль — устройство для поддержки тела при ходьбе и вставании. Применяется при заболеваниях и травмах опорно-двигательного аппарата. Изготавливается из алюминия, стали и различных сплавов."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "18 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "3 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "122 - 147 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "1.2 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "18 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "3 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "122 - 147 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "Вес",
+                "value": "1.2 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.9,
+      "reviews_count": 276,
+      "orders_count": 3500,
+      "images": [
+        "https://images.uzum.uz/cos9lmjmdtjlpkscd9n0/original.jpg",
+        "https://images.uzum.uz/cos9lmk0u44tu6doce9g/original.jpg",
+        "https://images.uzum.uz/cos9lmnj2e4ghqnq2q30/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/qoltiq-tayoqlari-1019851?skuId=3000120",
+      "voucher_program": true
+    },
+    {
+      "id": 2004024,
+      "category": {
+        "uz": "Yurish moslamalari",
+        "ru": "Ходунки и роллаторы"
+      },
+      "title": {
+        "uz": "Bolalar uchun maxsus yurish moslamasi L o`lchamli",
+        "ru": "Специальные ходунки для детей, размер L"
+      },
+      "shortDescription": {
+        "uz": "DSP va falaj bilan og'rigan bolalar uchun reabilitatsiya yurish moslamasi (L o'lcham).",
+        "ru": "Реабилитационные ходунки для детей с ДЦП и параличом (размер L)."
+      },
+      "description": {
+        "uz": "Ushbu ixtisoslashtirilgan bolalar yurish mashinasi miya yarim palsi, turli etiologiyali falaj va tayanch-harakat tizimi kasalliklari bilan og'rigan bemorlar uchun mo'ljallangan. Bosqichma-bosqich reabilitatsiya qilishni ta'minlaydigan qurilmalar to'plami. Ushbu ixtisoslashgan yuruvchi g'ayritabiiy postural faoliyatni bostirishga yordam beradi, normal postural reaktsiyalarning rivojlanishi uchun sharoit yaratadi, katta bo'g'imlarning kontrakturasi va deformatsiyasini oldini oladi, postural buzilishlar va g'ayritabiiy oyoq pozitsiyalarini tuzatishga yordam beradi. To'liq yoki qisman immobilizatsiya orqali to'g'ri yurishni rivojlantirish va tik turgan va yurish paytida muvozanatni o'rgatish uchun mo'ljallangan. U foydalanuvchining tanasini piyoda yuradigan joyida ishonchli ushlab turadi, yiqilish qo‘rquvini kamaytiradi, harakatni rag‘batlantiradi, to‘g‘ri turish va yurish ko‘nikmalarini rivojlantiradi. Qo'l dayamalari bolaning qo'llari uchun qulay joylashishi uchun balandligi va uzunligi sozlanishi. Qo'llab-quvvatlovchi korset foydalanuvchining tanasini kerakli balandlikda ushlab turadi va uning kengligi orqa tomondan biriktirilgan toka va xavfsizlik kamaridan foydalanib sozlanishi. Yumshoq, qo'llab-quvvatlovchi o'rindiq maxsus matodan qilingan va tanani cho'kishdan himoya qiladi. O'rindiq bir tomondan kancalar bilan bog'langan va boshqa tomondan kamar bilan ramkaga mahkamlangan qismlardan iborat.",
+        "ru": "Специализированные ходунки для детей с ДЦП, параличами различной этиологии и заболеваниями опорно-двигательного аппарата. Помогают развивать правильную ходьбу и равновесие, поддерживают тело ребёнка и снижают страх падения. Высота подлокотников и поддерживающий корсет регулируются."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Umumiy kengligi",
+                "value": "60 sm"
+              },
+              {
+                "label": "Uzunligi",
+                "value": "90 sm"
+              },
+              {
+                "label": "Rama (ramka) balandligi oralig'ida",
+                "value": "60-75 sm"
+              },
+              {
+                "label": "Tanani ushlovch mexanizmining balandligi oralig'ida",
+                "value": "70 / 95 sm"
+              },
+              {
+                "label": "Qo'l qo`ygichning balandligi poldan tirsak tagiga qadar",
+                "value": "65-90 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "12 kg"
+              },
+              {
+                "label": "Turi",
+                "value": "G'ildirakli"
+              },
+              {
+                "label": "Ishlab chiqaruvchi mamlakat",
+                "value": "O'zbekiston"
+              },
+              {
+                "label": "Kafolat",
+                "value": "12 oy"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Общая ширина",
+                "value": "60 см"
+              },
+              {
+                "label": "Длина",
+                "value": "90 см"
+              },
+              {
+                "label": "Регулировка высоты рамы",
+                "value": "60-75 см"
+              },
+              {
+                "label": "Регулировка высоты механизма поддержки",
+                "value": "70 / 95 см"
+              },
+              {
+                "label": "Высота подлокотника от пола",
+                "value": "65-90 см"
+              },
+              {
+                "label": "Вес",
+                "value": "12 кг"
+              },
+              {
+                "label": "Тип",
+                "value": "Колёсный"
+              },
+              {
+                "label": "Страна-производитель",
+                "value": "Узбекистан"
+              },
+              {
+                "label": "Гарантия",
+                "value": "12 мес."
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 4,
+      "orders_count": 40,
+      "images": [
+        "https://images.uzum.uz/d3fq6t5r1spnlh0tgc90/original.jpg",
+        "https://images.uzum.uz/d3fq6ul2lln30qq4tvbg/original.jpg",
+        "https://images.uzum.uz/d3fq7021146soq7crisg/original.jpg",
+        "https://images.uzum.uz/d3fq70q1146soq7crivg/original.jpg",
+        "https://images.uzum.uz/d3fq7221146soq7crj10/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/bolalar-uchun-maxsus-yurish-moslamasi-l-2004024?skuId=7098874",
+      "voucher_program": true
+    },
+    {
+      "id": 1020637,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Transfer, sanitar aravachasi",
+        "ru": "Транспортная санитарная коляска"
+      },
+      "shortDescription": {
+        "uz": "Ko'tarish mexanizmli sanitar aravacha — bemorni xavfsiz ko'chirish uchun.",
+        "ru": "Санитарная коляска с подъёмным механизмом для безопасного перемещения."
+      },
+      "description": {
+        "uz": "Transfer - ko’tarish mexanizmli sanitar aravachasi imkoniyati cheklangan, nogiron xamda keksa insonlarni uy ichida va tashqarida joylashgan xojatxona, xammomga olib borish va boshqa maqsadlarda, bir joydan ikkinchi joyga ko’chirish uchun mo’ljallangan. Ikki qismga bo’linadigan o’tirgich bemorni ko`tarmasdan aravachaga o’tirishini yoki tushirishni ta’minlaydi. Aylanma ko’tarib tushirish mexanizmi 130 kg gacha bo’lgan insonni osonlik bilan yuqoriga ko’tarish va tushirishga imkoniyat beradi.Mustaxkam tormoz tizimiga ega ushbu aravacha parvarish qiluvchi uchun yuqori samaradorlik beradi.",
+        "ru": "Санитарная коляска с подъёмным механизмом для перемещения людей с ограниченными возможностями и пожилых в туалет, ванную и другие места. Разделяемое сиденье и вращающийся подъёмный механизм позволяют пересаживать человека весом до 130 кг без поднятия. Надёжная тормозная система облегчает уход."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "72"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "53"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "98"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "45"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "26"
+              },
+              {
+                "label": "Poldan o'rindiqqacha balandlik",
+                "value": "41"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "130"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi umumiy kengligi",
+                "value": "73х52х35"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "72"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "53"
+              },
+              {
+                "label": "Общая высота",
+                "value": "98"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "45"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "26"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "41"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "130"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "73х52х35"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 19,
+      "orders_count": 300,
+      "images": [
+        "https://images.uzum.uz/d32j4qd2llnd6jum8trg/original.jpg",
+        "https://images.uzum.uz/d32j4mniub35i07kvrvg/original.jpg",
+        "https://images.uzum.uz/d32j4o52llnd6jum8tqg/original.jpg",
+        "https://images.uzum.uz/d32j4pd2llnd6jum8tr0/original.jpg",
+        "https://images.uzum.uz/d32j4rfiub35i07kvs0g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/transfer-sanitar-aravachasi-1020637?skuId=3003291",
+      "voucher_program": false
+    },
+    {
+      "id": 1019681,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Sayrga mo'ljallangan, o'rindiqli, kattalar uchun mexanik nogironlar aravachasi KKSV",
+        "ru": "Механическая прогулочная коляска с сиденьем для взрослых (KKSV)"
+      },
+      "shortDescription": {
+        "uz": "Sayr va ko'cha sharoiti uchun sozlanadigan suyanchiqli mexanik aravacha.",
+        "ru": "Механическая коляска с регулируемой спинкой для прогулок и улицы."
+      },
+      "description": {
+        "uz": "Qo'l uzatmali nogironlar aravachasi KKSV-1 imkoniyati cheklangan insonlar uchun qisqa masofalarga, uy ichida va xovlida, xarakatlanish uchun mo'ljallangan. Aravachaning tirsak qoygich va oyoq qoygichlarini xarakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o'rin almashtirishi uchun, yig'ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi. Ushbu aravacha orga suyanchig'i gradusi o'zgarishi umurtqada,belida muammosi bor nogironlar uchun qo' shimcha qulaylik yaratadi.",
+        "ru": "Коляска с ручным приводом для передвижения на короткие расстояния дома и во дворе. Подвижные подлокотники и подножки облегчают пересадку, складная конструкция удобна для перевозки. Регулируемый угол наклона спинки создаёт дополнительный комфорт при проблемах с позвоночником и поясницей."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "117 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "68 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "90 sm"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi umumiy kengligi",
+                "value": "35 sm"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "44 sm"
+              },
+              {
+                "label": "O'rindiq chuqurligi",
+                "value": "45 sm"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "40 sm"
+              },
+              {
+                "label": "Poldan o'rindiqqacha balandlik",
+                "value": "47 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Old g'ildirak diametri",
+                "value": "18 sm"
+              },
+              {
+                "label": "Orqa g'ildirak diametri",
+                "value": "60 sm"
+              },
+              {
+                "label": "Orqa g'ildirak",
+                "value": "Damlanadigan"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "20 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "117 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "68 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "90 см"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "35 см"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "44 см"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "45 см"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "40 см"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "47 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "18 см"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "60 см"
+              },
+              {
+                "label": "Заднее колесо",
+                "value": "Надувное"
+              },
+              {
+                "label": "Вес",
+                "value": "20 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.9,
+      "reviews_count": 920,
+      "orders_count": 8500,
+      "images": [
+        "https://images.uzum.uz/d67bklt75tf1bsrorlfg/original.jpg",
+        "https://images.uzum.uz/cosc15fj2e4ghqnq3il0/original.jpg",
+        "https://images.uzum.uz/cosc15c0u44tu6dod6vg/original.jpg",
+        "https://images.uzum.uz/cosc15ffrr80f2gk0l9g/original.jpg",
+        "https://images.uzum.uz/cosc1540u44tu6dod6ug/original.jpg",
+        "https://images.uzum.uz/cosc15c0u44tu6dod700/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/sayrga-moljallangan-orindiqli-metall-kulrang---291-1019681?skuId=2998975",
+      "voucher_program": false
+    },
+    {
+      "id": 1528755,
+      "category": {
+        "uz": "Elektr aravachalar",
+        "ru": "Электроколяски"
+      },
+      "title": {
+        "uz": "Elektr yuritmali kreslo-aravacha KKEP",
+        "ru": "Электрическая кресло-коляска KKEP"
+      },
+      "shortDescription": {
+        "uz": "Uzoq masofalarga mustaqil harakat uchun elektr yuritmali kreslo-aravacha.",
+        "ru": "Электрическая кресло-коляска для самостоятельного передвижения на дальние расстояния."
+      },
+      "description": {
+        "uz": "Elektr uzatmali kreslo-aravacha KKEP imkoniyati cheklangan insonlar uchun qisqa va uzoq masofalarga, xovlida va ko`chalarda xarakatlanish uchun mo'ljallangan. Aravachaning tirsak qoygich va oyoq qoygichlarini xarakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o'rin almashtirishi uchun, yig'ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi.Korxonaning barcha viloyatlarda servis markazlari mavjud.",
+        "ru": "Электрическая кресло-коляска для передвижения на короткие и дальние расстояния во дворе и на улице. Подвижные подлокотники и подножки облегчают пересадку, складная конструкция удобна для перевозки в автомобиле. Сервисные центры компании работают во всех регионах."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Ishchi xolatdagi uzunligi",
+                "value": "1110 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi uzunligi",
+                "value": "780 mm"
+              },
+              {
+                "label": "Ishchi xolatdagi balandligi max",
+                "value": "1350 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi balandligi",
+                "value": "610 mm"
+              },
+              {
+                "label": "Ishchi xolatdagi eni",
+                "value": "650 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi eni",
+                "value": "430 mm"
+              },
+              {
+                "label": "O‘tirgich eni",
+                "value": "460 mm"
+              },
+              {
+                "label": "Og‘irligi",
+                "value": "40 kg"
+              },
+              {
+                "label": "Yuk ko‘tarish qobilyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Motor reduktorlari elektromagnit tormozli",
+                "value": "2 dona"
+              },
+              {
+                "label": "",
+                "value": "250 W"
+              },
+              {
+                "label": "Akkumulyatori",
+                "value": "24 V"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Длина в рабочем состоянии",
+                "value": "1110 мм"
+              },
+              {
+                "label": "Длина в сложенном виде",
+                "value": "780 мм"
+              },
+              {
+                "label": "Высота в рабочем состоянии (макс.)",
+                "value": "1350 мм"
+              },
+              {
+                "label": "Высота в сложенном виде",
+                "value": "610 мм"
+              },
+              {
+                "label": "Ширина в рабочем состоянии",
+                "value": "650 мм"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "430 мм"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "460 мм"
+              },
+              {
+                "label": "Вес",
+                "value": "40 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "Мотор-редукторы с электромагнитным тормозом",
+                "value": "2 шт."
+              },
+              {
+                "label": "",
+                "value": "250 W"
+              },
+              {
+                "label": "Аккумулятор",
+                "value": "24 V"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 122,
+      "orders_count": 700,
+      "images": [
+        "https://images.uzum.uz/d32id2j4eu2up0au6jf0/original.jpg",
+        "https://images.uzum.uz/d32ida7iub35i07kvhpg/original.jpg",
+        "https://images.uzum.uz/d32id8viub35i07kvhng/original.jpg",
+        "https://images.uzum.uz/d32idbd2llnd6jum8k1g/original.jpg",
+        "https://images.uzum.uz/d32idcfiub35i07kvhq0/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/elektr-yuritmali-kresloaravacha-kkep-1528755?skuId=5017402",
+      "voucher_program": true
+    },
+    {
+      "id": 1516176,
+      "category": {
+        "uz": "Qoltiq tayoqlar",
+        "ru": "Костыли"
+      },
+      "title": {
+        "uz": "Qoltiq tayoq (bolalar uchun juft)",
+        "ru": "Костыли (детские, пара)"
+      },
+      "shortDescription": {
+        "uz": "Bolalar uchun mo'ljallangan yengil, mustahkam juft qoltiq tayoq.",
+        "ru": "Лёгкие прочные парные костыли, предназначенные для детей."
+      },
+      "description": {
+        "uz": "Qoltiq tayog'i - bu yurish va turish paytida inson tanasini qo'llab-quvvatlash uchun qurilma. Tayanch-harakat tizimi kasalliklari va shikastlanishlari uchun uning funktsiyalari buzilganda qo'llaniladi. Mahsulot po'latdan tayyorlangan.",
+        "ru": "Костыль — устройство для поддержки тела при ходьбе и вставании, применяемое при заболеваниях и травмах опорно-двигательного аппарата. Изготовлен из стали. Данная модель предназначена для детей."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Material",
+                "value": "Po’lat"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "min-max 95-120 sm"
+              },
+              {
+                "label": "Umumiy eni",
+                "value": "18 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "3 sm"
+              },
+              {
+                "label": "Og’irligi (juft",
+                "value": "1.0 kg"
+              },
+              {
+                "label": "Yuk ko’tarish qobiliyati",
+                "value": "120 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая высота",
+                "value": "min-max 95-120 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "18 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "3 см"
+              },
+              {
+                "label": "Вес (пара)",
+                "value": "1.0 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 3,
+      "orders_count": 50,
+      "images": [
+        "https://images.uzum.uz/cvifgv5pb7f9qcnjppng/original.jpg",
+        "https://images.uzum.uz/cvifh0mi4n36ls413f2g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/qoltiq-tayoq-bolalar-uchun-juft-1516176?skuId=4975685",
+      "voucher_program": true
+    },
+    {
+      "id": 1946326,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Sanitariya uskunalari bilan jihozlangan nogironlar aravachasi KKSV",
+        "ru": "Инвалидная коляска с санитарным оснащением (KKSV)"
+      },
+      "shortDescription": {
+        "uz": "Sanitar uskunali, uy va ko'chada foydalanish uchun ko'p funksiyali aravacha.",
+        "ru": "Многофункциональная коляска с санитарным оснащением для дома и улицы."
+      },
+      "description": {
+        "uz": "Sanitariya uskunalari bilan jihozlangan nogironlar aravachasi KKSV. Yurish qobiliyatlarini qisman yoki to'liq yo'qotgan odamlarning harakatlanish uchun mo'ljallangan. U uyda ham, ko'chada ham harakat qilish uchun ishlatiladi. Yuk ko'tarishi 120 kg. Ramasi po'latdan tayyorlangan. Orqa suyanchiq suniy charmdan tayyorlangan, otirgich ortasi tuvak uchun ochiladigan qilib maxsus tayyorlangan va tuvak bilan jihozlangan. Bosh qo'ygichli, to'xtash tormozi tutqichlari o'rnatilgan. Oyoq qoygichlari sozlanuvchi va olib qo'yiluvchi ishlatish uchun qulay. Yig'iladigan rama sizga nogironlar aravachasini mashinada tashish yoki ko'p joy egallamasdan saqlash imkonini beradi. Ushbu sanitariya uskunalari bilan jihozlangan nogironlar aravachasi KKSV dan imkoniyati cheklangan insonlar mustaqil ravishda foydalanish imkoniyatiga ega bo`ladilar.",
+        "ru": "Коляска с санитарным оснащением для людей, частично или полностью утративших способность ходить. Используется дома и на улице. Стальная рама, спинка из искусственной кожи, сиденье со специальным отверстием и судном. Оснащена подголовником, тормозами и регулируемыми съёмными подножками. Складная рама удобна для перевозки и хранения."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Ishlab chiqaruvchi",
+                "value": "X/K «SAYQAL»"
+              },
+              {
+                "label": "Kelib chiqqan mamlakat",
+                "value": "O'zbekiston"
+              },
+              {
+                "label": "Aravacha turi",
+                "value": "Sanitariya uskunalari bilan jihozlangan, qo'lda boshqariladigan"
+              },
+              {
+                "label": "Old g'ildirak turi",
+                "value": "Qattiq quyma (poliuretan)"
+              },
+              {
+                "label": "Orqa g'ildirak turi",
+                "value": "Pnevmatik (damlanadigan)"
+              },
+              {
+                "label": "Tirsak qo'ygich",
+                "value": "Ochiladigan"
+              },
+              {
+                "label": "Oyoq tayanchi",
+                "value": "Sozlanadigan"
+              },
+              {
+                "label": "Rama",
+                "value": "Yig'iluvchi"
+              },
+              {
+                "label": "Tuvak",
+                "value": "Oson olinadigan"
+              },
+              {
+                "label": "Aravacha kengligi",
+                "value": "70 sm"
+              },
+              {
+                "label": "Yig'ilganda kengligi",
+                "value": "35 sm"
+              },
+              {
+                "label": "Balandligi",
+                "value": "90 sm (bosh qo'ygich bilan 135 sm)"
+              },
+              {
+                "label": "Uzunligi (oyoq qo'ygich bilan)",
+                "value": "115 sm"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "46 sm"
+              },
+              {
+                "label": "O'rindiq chuqurligi",
+                "value": "44 sm"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "38 sm"
+              },
+              {
+                "label": "Old g'ildirak diametri",
+                "value": "20 sm"
+              },
+              {
+                "label": "Orqa g'ildirak diametri",
+                "value": "58 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "21 kg"
+              },
+              {
+                "label": "Yuk ko'tarish qobiliyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "O'rindiq qoplamasi",
+                "value": "Sun'iy teri"
+              },
+              {
+                "label": "Bosh qo'ygich",
+                "value": "Bor"
+              },
+              {
+                "label": "To'xtash tormozlari",
+                "value": "Bor"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Производитель",
+                "value": "Ч/П «SAYQAL»"
+              },
+              {
+                "label": "Страна происхождения",
+                "value": "Узбекистан"
+              },
+              {
+                "label": "Тип коляски",
+                "value": "С санитарным оснащением, с ручным управлением"
+              },
+              {
+                "label": "Тип переднего колеса",
+                "value": "Литьё (полиуретан)"
+              },
+              {
+                "label": "Тип заднего колеса",
+                "value": "Пневматическое (надувное)"
+              },
+              {
+                "label": "Подлокотник",
+                "value": "Откидной"
+              },
+              {
+                "label": "Подножка",
+                "value": "Регулируемая"
+              },
+              {
+                "label": "Рама",
+                "value": "Складная"
+              },
+              {
+                "label": "Судно",
+                "value": "Легко снимается"
+              },
+              {
+                "label": "Ширина коляски",
+                "value": "70 см"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "35 см"
+              },
+              {
+                "label": "Высота",
+                "value": "90 см (с подголовником 135 см)"
+              },
+              {
+                "label": "Длина (с подножкой)",
+                "value": "115 см"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "46 см"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "44 см"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "38 см"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "20 см"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "58 см"
+              },
+              {
+                "label": "Вес",
+                "value": "21 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Обивка сиденья",
+                "value": "Искусственная кожа"
+              },
+              {
+                "label": "Подголовник",
+                "value": "Есть"
+              },
+              {
+                "label": "Стояночные тормоза",
+                "value": "Есть"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 2,
+      "orders_count": 20,
+      "images": [
+        "https://images.uzum.uz/d32e4kfiub35i07kucl0/original.jpg",
+        "https://images.uzum.uz/d32e4pt2llnd6jum7e40/original.jpg",
+        "https://images.uzum.uz/d32e4qviub35i07kucm0/original.jpg",
+        "https://images.uzum.uz/d32e4sd2llnd6jum7e4g/original.jpg",
+        "https://images.uzum.uz/d32e4td2llnd6jum7e50/original.jpg",
+        "https://images.uzum.uz/d32e4vfiub35i07kucn0/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/sanitariya-uskunalari-bilan-1946326?skuId=6869155",
+      "voucher_program": true
+    },
+    {
+      "id": 1059032,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Sayrga mo'ljallangan, orindiqli, bolalar uchun mexanik nogironlar aravachasi KKSD",
+        "ru": "Механическая прогулочная коляска с сиденьем для детей (KKSD)"
+      },
+      "shortDescription": {
+        "uz": "Bolalar uchun sayr va ko'cha sharoitiga mo'ljallangan yig'iladigan aravacha.",
+        "ru": "Складная детская коляска для прогулок и уличных условий."
+      },
+      "description": {
+        "uz": "Aravachaning tirsak qo’ygich va oyoq qo’ygichlarini harakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o’rin almashtirishi uchun, yig’ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi.",
+        "ru": "Коляска с ручным приводом KKSD-2 для детей с ограниченными возможностями. Предназначена для передвижения на короткие и дальние расстояния дома и на улице. Подвижные подлокотники и подножки облегчают пересадку, складная конструкция удобна для перевозки в автомобиле."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Material",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "100 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "60 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "86 sm"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi hajmi",
+                "value": "35 sm"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "36 sm"
+              },
+              {
+                "label": "O'rindiq chuqurligi",
+                "value": "40 sm"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "37 sm"
+              },
+              {
+                "label": "Poldan o'rindiqqacha balandlik",
+                "value": "45 sm"
+              },
+              {
+                "label": "Old g'ildirak diametri",
+                "value": "18 sm"
+              },
+              {
+                "label": "Orqa g'ildirak diametri",
+                "value": "50 sm"
+              },
+              {
+                "label": "Orqa g'ildirak",
+                "value": "Damlanadigan"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "15 kg"
+              },
+              {
+                "label": "Yuk ko'tarish qobiliyati",
+                "value": "80 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "100 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "60 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "86 см"
+              },
+              {
+                "label": "Габарит в сложенном виде",
+                "value": "35 см"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "36 см"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "40 см"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "37 см"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "45 см"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "18 см"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "50 см"
+              },
+              {
+                "label": "Заднее колесо",
+                "value": "Надувное"
+              },
+              {
+                "label": "Вес",
+                "value": "15 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "80 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 307,
+      "orders_count": 2000,
+      "images": [
+        "https://images.uzum.uz/cpe4s73mdtjnp73804ag/original.jpg",
+        "https://images.uzum.uz/cpe4s77frr82f0a52pl0/original.jpg",
+        "https://images.uzum.uz/cpe4s77frr82f0a52pkg/original.jpg",
+        "https://images.uzum.uz/cpgkbk3mdtjnp738h810/original.jpg",
+        "https://images.uzum.uz/cpgkbk3mdtjnp738h80g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/sayrga-moljallangan-orindiqli-1059032?skuId=3180012",
+      "voucher_program": true
+    },
+    {
+      "id": 1019714,
+      "category": {
+        "uz": "Nogironlar aravachalari",
+        "ru": "Инвалидные коляски"
+      },
+      "title": {
+        "uz": "Xonaga mo'ljallangan, orindiqli, bolalar uchun mexanik nogironlar aravachasi KKSD",
+        "ru": "Механическая коляска для дома с сиденьем для детей (KKSD)"
+      },
+      "shortDescription": {
+        "uz": "Uy sharoiti uchun ixcham, yengil bolalar mexanik aravachasi.",
+        "ru": "Компактная лёгкая детская механическая коляска для дома."
+      },
+      "description": {
+        "uz": "Aravachaning tirsak qoygich va oyoq qoygichlarini xarakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o'rin almashtirishi uchun, yig'ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi.",
+        "ru": "Коляска с ручным приводом для детей с ограниченными возможностями. Предназначена для передвижения на короткие расстояния дома и во дворе. Подвижные подлокотники и подножки облегчают пересадку, складная конструкция удобна для перевозки."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "100 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "60 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "86 sm"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi umumiy kengligi",
+                "value": "35 sm"
+              },
+              {
+                "label": "O'rindiq kengligi",
+                "value": "36 sm"
+              },
+              {
+                "label": "O'rindiq chuqurligi",
+                "value": "40 sm"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "37 sm"
+              },
+              {
+                "label": "Poldan o'rindiqqacha balandlik",
+                "value": "45 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "80 kg"
+              },
+              {
+                "label": "Old g'ildirak diametri",
+                "value": "18 sm"
+              },
+              {
+                "label": "Orqa g'ildirak diametri",
+                "value": "50 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "15 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "100 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "60 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "86 см"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "35 см"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "36 см"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "40 см"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "37 см"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "45 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "80 кг"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "18 см"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "50 см"
+              },
+              {
+                "label": "Вес",
+                "value": "15 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 83,
+      "orders_count": 1000,
+      "images": [
+        "https://images.uzum.uz/cosc0uvj2e4ghqnq3ii0/original.jpg",
+        "https://images.uzum.uz/cosc0uk0u44tu6dod6r0/original.jpg",
+        "https://images.uzum.uz/cosc0uvj2e4ghqnq3ihg/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/xonaga-moljallangan-orindiqli-tq-bordo---262-1019714?skuId=2999238",
+      "voucher_program": true
+    },
+    {
+      "id": 1019823,
+      "category": {
+        "uz": "Hassalar",
+        "ru": "Трости"
+      },
+      "title": {
+        "uz": "Hassa",
+        "ru": "Трость"
+      },
+      "shortDescription": {
+        "uz": "Yurishda barqarorlik beruvchi balandligi sozlanadigan yengil hassa.",
+        "ru": "Лёгкая трость с регулируемой высотой для устойчивости при ходьбе."
+      },
+      "description": {
+        "uz": "Xassalar foydalanuvchining vertikal barqarorligini oshirishni ta'minlaydi, shuningdek, shikastlangan tomondagi yukni kamaytiradi. Yurishda simmetriyani targ'ib qiladi.",
+        "ru": "Трость — устройство в виде палки из металла, дерева или пластика с рукоятью и опорой. Повышает вертикальную устойчивость пользователя, снижает нагрузку на повреждённую сторону и способствует симметрии при ходьбе."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Tutqich uzunligi",
+                "value": "12,5 sm"
+              },
+              {
+                "label": "Tutqich kengligi",
+                "value": "2 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "75 - 100 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "0,4 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Длина рукояти",
+                "value": "12,5 см"
+              },
+              {
+                "label": "Ширина рукояти",
+                "value": "2 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "75 - 100 см"
+              },
+              {
+                "label": "Вес",
+                "value": "0,4 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.9,
+      "reviews_count": 295,
+      "orders_count": 3500,
+      "images": [
+        "https://images.uzum.uz/cp5juek0u44tu6dqem3g/original.jpg",
+        "https://images.uzum.uz/cp5juenfrr80f2gm1tj0/original.jpg",
+        "https://images.uzum.uz/cp5juek0u44tu6dqem30/original.jpg",
+        "https://images.uzum.uz/cp5juenj2e4ghqns5480/original.jpg",
+        "https://images.uzum.uz/cp5juenfrr80f2gm1tjg/original.jpg",
+        "https://images.uzum.uz/cp5juek0u44tu6dqem2g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/nassa-qora---1-1019823?skuId=2999995",
+      "voucher_program": true
+    },
+    {
+      "id": 1019896,
+      "category": {
+        "uz": "Qoltiq tayoqlar",
+        "ru": "Костыли"
+      },
+      "title": {
+        "uz": "Tirsakli qoltiq tayoq",
+        "ru": "Локтевой костыль"
+      },
+      "shortDescription": {
+        "uz": "Tirsakni qo'llab-quvvatlovchi mustahkam tirsakli qoltiq tayoq.",
+        "ru": "Прочный локтевой костыль с поддержкой предплечья."
+      },
+      "description": {
+        "uz": "Tayanch-harakat tizimi kasalliklari va shikastlanishlari uchun uning funktsiyalari buzilganda qo'llaniladi. Mahsulot alyuminiy, po'lat va turli qotishmalardan tayyorlanadi. Asosiy xususiyatlaridan biri tirsakni ushlab turuvchi qurilma borligi.",
+        "ru": "Локтевой костыль — устройство для поддержки тела при ходьбе и вставании. Применяется при заболеваниях и травмах опорно-двигательного аппарата. Изготавливается из алюминия, стали и сплавов. Главная особенность — наличие фиксатора предплечья."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "20 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "9 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "98 - 123 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "1 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "20 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "9 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "98 - 123 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "Вес",
+                "value": "1 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.6,
+      "reviews_count": 40,
+      "orders_count": 500,
+      "images": [
+        "https://images.uzum.uz/cp5h5kvj2e4ghqns46a0/original.jpg",
+        "https://images.uzum.uz/cp5h5kfj2e4ghqns469g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/tirsakli-qoltiq-tayoq-1019896?skuId=3000253",
+      "voucher_program": true
+    },
+    {
+      "id": 1020687,
+      "category": {
+        "uz": "Hassalar",
+        "ru": "Трости"
+      },
+      "title": {
+        "uz": "Ko'zi ojizlar hassasi, yigiladigan",
+        "ru": "Складная трость для незрячих"
+      },
+      "shortDescription": {
+        "uz": "Ko'zi ojizlar uchun yig'iladigan, yengil yo'naltiruvchi hassa.",
+        "ru": "Складная лёгкая направляющая трость для незрячих."
+      },
+      "description": {
+        "uz": "Xassalar foydalanuvchining vertikal barqarorligini oshirishni ta'minlaydi. Ko'zi ojizlar maxsus xassalardan yo'nalishlarini, kelayotgan to'siqni aniqlashda foydalanishadi.",
+        "ru": "Складная трость для незрячих — устройство в виде палки из алюминия или пластика с рукоятью. Повышает устойчивость и помогает незрячим определять направление движения и приближающиеся препятствия."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "120 sm"
+              },
+              {
+                "label": "Tutqich uzunligi",
+                "value": "15 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "0.4 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "120 см"
+              },
+              {
+                "label": "Длина рукояти",
+                "value": "15 см"
+              },
+              {
+                "label": "Вес",
+                "value": "0.4 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.8,
+      "reviews_count": 39,
+      "orders_count": 500,
+      "images": [
+        "https://images.uzum.uz/cov44j7frr80f2gkk400/original.jpg",
+        "https://images.uzum.uz/cov44j40u44tu6dp0mp0/original.jpg",
+        "https://images.uzum.uz/cov44j7frr80f2gkk410/original.jpg",
+        "https://images.uzum.uz/cov44j7frr80f2gkk40g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/kozi-ojizlar-hassasi-yigiladigan-1020687?skuId=3003601",
+      "voucher_program": true
+    },
+    {
+      "id": 1622876,
+      "category": {
+        "uz": "Elektr aravachalar",
+        "ru": "Электроколяски"
+      },
+      "title": {
+        "uz": "Elektr yuritmali kreslo-aravacha bolalar uchun KKEP-D",
+        "ru": "Электрическая кресло-коляска для детей KKEP-D"
+      },
+      "shortDescription": {
+        "uz": "Bolalar uchun elektr yuritmali, sozlanadigan kreslo-aravacha.",
+        "ru": "Электрическая регулируемая кресло-коляска для детей."
+      },
+      "description": {
+        "uz": "Elektr uzatmali kreslo-aravacha KKEP imkoniyati cheklangan insonlar uchun qisqa va uzoq masofalarga, xovlida va ko`chalarda xarakatlanish uchun mo'ljallangan. Aravachaning tirsak qoygich va oyoq qoygichlarini xarakatlantirish xususiyati nogironni aravachaga joylashishi va undan boshqa joyga o'rin almashtirishi uchun, yig'ilish xususiyati esa avtomobilda tashish uchun qulaylik yaratadi.Korxonaning barcha viloyatlarda servis markazlari mavjud.",
+        "ru": "Электрическая кресло-коляска для передвижения детей на короткие и дальние расстояния во дворе и на улице. Подвижные подлокотники и подножки облегчают пересадку, складная конструкция удобна для перевозки в автомобиле. Сервисные центры работают во всех регионах."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Ishchi xolatdagi uzunligi",
+                "value": "1110 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi uzunligi",
+                "value": "780 mm"
+              },
+              {
+                "label": "Ishchi xolatdagi balandligi max",
+                "value": "1350 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi balandligi",
+                "value": "610 mm"
+              },
+              {
+                "label": "Ishchi xolatdagi eni",
+                "value": "650 mm"
+              },
+              {
+                "label": "Yig‘ilgan xolatdagi eni",
+                "value": "430 mm"
+              },
+              {
+                "label": "O‘tirgich eni",
+                "value": "360 mm"
+              },
+              {
+                "label": "Og‘irligi",
+                "value": "40 kg"
+              },
+              {
+                "label": "Yuk ko‘tarish qobilyati",
+                "value": "120 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Длина в рабочем состоянии",
+                "value": "1110 мм"
+              },
+              {
+                "label": "Длина в сложенном виде",
+                "value": "780 мм"
+              },
+              {
+                "label": "Высота в рабочем состоянии (макс.)",
+                "value": "1350 мм"
+              },
+              {
+                "label": "Высота в сложенном виде",
+                "value": "610 мм"
+              },
+              {
+                "label": "Ширина в рабочем состоянии",
+                "value": "650 мм"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "430 мм"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "360 мм"
+              },
+              {
+                "label": "Вес",
+                "value": "40 кг"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 31,
+      "orders_count": 200,
+      "images": [
+        "https://images.uzum.uz/d32it9t2llnd6jum8qbg/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/elektr-yuritmali-kresloaravacha-1622876?skuId=5416655",
+      "voucher_program": true
+    },
+    {
+      "id": 2003925,
+      "category": {
+        "uz": "Yurish moslamalari",
+        "ru": "Ходунки и роллаторы"
+      },
+      "title": {
+        "uz": "Bolalar uchun maxsus yurish moslamasi, S o`lchamli",
+        "ru": "Специальные ходунки для детей, размер S"
+      },
+      "shortDescription": {
+        "uz": "DSP va falaj bilan og'rigan bolalar uchun reabilitatsiya yurish moslamasi (S o'lcham).",
+        "ru": "Реабилитационные ходунки для детей с ДЦП и параличом (размер S)."
+      },
+      "description": {
+        "uz": "Ushbu ixtisoslashtirilgan bolalar yurish mashinasi miya yarim palsi, turli etiologiyali falaj va tayanch-harakat tizimi kasalliklari bilan og'rigan bemorlar uchun mo'ljallangan. Bosqichma-bosqich reabilitatsiya qilishni ta'minlaydigan qurilmalar to'plami. Ushbu ixtisoslashgan yuruvchi g'ayritabiiy postural faoliyatni bostirishga yordam beradi, normal postural reaktsiyalarning rivojlanishi uchun sharoit yaratadi, katta bo'g'imlarning kontrakturasi va deformatsiyasini oldini oladi, postural buzilishlar va g'ayritabiiy oyoq pozitsiyalarini tuzatishga yordam beradi. To'liq yoki qisman immobilizatsiya orqali to'g'ri yurishni rivojlantirish va tik turgan va yurish paytida muvozanatni o'rgatish uchun mo'ljallangan. U foydalanuvchining tanasini piyoda yuradigan joyida ishonchli ushlab turadi, yiqilish qo‘rquvini kamaytiradi, harakatni rag‘batlantiradi, to‘g‘ri turish va yurish ko‘nikmalarini rivojlantiradi. Qo'l dayamalari bolaning qo'llari uchun qulay joylashishi uchun balandligi va uzunligi sozlanishi. Qo'llab-quvvatlovchi korset foydalanuvchining tanasini kerakli balandlikda ushlab turadi va uning kengligi orqa tomondan biriktirilgan toka va xavfsizlik kamaridan foydalanib sozlanishi. Yumshoq, qo'llab-quvvatlovchi o'rindiq maxsus matodan qilingan va tanani cho'kishdan himoya qiladi. O'rindiq bir tomondan kancalar bilan bog'langan va boshqa tomondan kamar bilan ramkaga mahkamlangan qismlardan iborat.",
+        "ru": "Специализированные ходунки для детей с ДЦП, параличами различной этиологии и заболеваниями опорно-двигательного аппарата. Помогают развивать правильную ходьбу и равновесие, поддерживают тело ребёнка. Высота подлокотников и поддерживающий корсет регулируются. Размер S."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Umumiy kengligi",
+                "value": "60 sm"
+              },
+              {
+                "label": "Uzunligi",
+                "value": "90 sm"
+              },
+              {
+                "label": "Rama (ramka) balandligi oralig'ida",
+                "value": "50-65 sm"
+              },
+              {
+                "label": "Tanani ushlovch mexanizmining balandligi oralig'ida",
+                "value": "60 / 85 sm"
+              },
+              {
+                "label": "Qo'l qo`ygichning balandligi poldan tirsak tagiga qadar",
+                "value": "55-80 sm"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "10 kg"
+              },
+              {
+                "label": "Turi",
+                "value": "G'ildirakli"
+              },
+              {
+                "label": "Ishlab chiqaruvchi mamlakat",
+                "value": "O'zbekiston"
+              },
+              {
+                "label": "Kafolat",
+                "value": "12 oy"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Общая ширина",
+                "value": "60 см"
+              },
+              {
+                "label": "Длина",
+                "value": "90 см"
+              },
+              {
+                "label": "Регулировка высоты рамы",
+                "value": "50-65 см"
+              },
+              {
+                "label": "Регулировка высоты механизма поддержки",
+                "value": "60 / 85 см"
+              },
+              {
+                "label": "Высота подлокотника от пола",
+                "value": "55-80 см"
+              },
+              {
+                "label": "Вес",
+                "value": "10 кг"
+              },
+              {
+                "label": "Тип",
+                "value": "Колёсный"
+              },
+              {
+                "label": "Страна-производитель",
+                "value": "Узбекистан"
+              },
+              {
+                "label": "Гарантия",
+                "value": "12 мес."
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 5,
+      "orders_count": 30,
+      "images": [
+        "https://images.uzum.uz/d3fpq8dr1spnlh0tg6c0/original.jpg",
+        "https://images.uzum.uz/d3fppmi1146soq7crd10/original.jpg",
+        "https://images.uzum.uz/d3fpq4q1146soq7crd60/original.jpg",
+        "https://images.uzum.uz/d3fppsq1146soq7crd3g/original.jpg",
+        "https://images.uzum.uz/d3fppvtr1spnlh0tg67g/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/bolalar-uchun-maxsus-yurish-moslamasi-s-2003925?skuId=7098557",
+      "voucher_program": true
+    },
+    {
+      "id": 1020671,
+      "category": {
+        "uz": "Yurish moslamalari",
+        "ru": "Ходунки и роллаторы"
+      },
+      "title": {
+        "uz": "Yurish moslamasi, xodunok",
+        "ru": "Ходунки"
+      },
+      "shortDescription": {
+        "uz": "Muvozanatni tiklash uchun yengil va mustahkam yurish moslamasi (xodunok).",
+        "ru": "Лёгкие прочные ходунки для восстановления равновесия."
+      },
+      "description": {
+        "uz": "Xodunok yordamida bemor inson o'z tana muvozanatini saqlashi va xarakatlanish texnikasini qayta o'zlashtirishi mumkin.",
+        "ru": "Ходунки — лучшее решение для человека в процессе восстановления, который пока не полностью контролирует движения мышц. С их помощью пациент может сохранять равновесие тела и заново осваивать технику передвижения."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "50 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "48 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "83 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "11 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "130 kg"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "4,4 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "50 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "48 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "83 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "11 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "130 кг"
+              },
+              {
+                "label": "Вес",
+                "value": "4,4 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 4.8,
+      "reviews_count": 29,
+      "orders_count": 200,
+      "images": [
+        "https://images.uzum.uz/cp5jvic0u44tu6dqemfg/original.jpg",
+        "https://images.uzum.uz/cp5jvic0u44tu6dqemf0/original.jpg",
+        "https://images.uzum.uz/cp5jvifj2e4ghqns54og/original.jpg",
+        "https://images.uzum.uz/cp5jvifj2e4ghqns54o0/original.jpg",
+        "https://images.uzum.uz/cp5jvic0u44tu6dqemg0/original.jpg",
+        "https://images.uzum.uz/cp5jvifj2e4ghqns54p0/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/yurish-moslamasi-xodunok-1020671?skuId=3003492",
+      "voucher_program": true
+    },
+    {
+      "id": 1065341,
+      "category": {
+        "uz": "Yurish moslamalari",
+        "ru": "Ходунки и роллаторы"
+      },
+      "title": {
+        "uz": "Sayr uchun yurish moslamasi Rollator-R4",
+        "ru": "Прогулочные ходунки-роллатор Rollator-R4"
+      },
+      "shortDescription": {
+        "uz": "O'rindiq, savat va tormozli 4 g'ildirakli sayr rollatori.",
+        "ru": "Прогулочный роллатор на 4 колёсах с сиденьем, корзиной и тормозами."
+      },
+      "description": {
+        "uz": "Bunday rolatorlar 4 gʻildirakli boʻlib balandligi sozlanuvchi tutqichga, oʻtirgich, ishonchli tormoz tizimiga savatcha yoki sumkaga ega bo`ladi.Buning yordamida uzoqroq masofalarga sayr qilish, oʻz extiyoji uchun kerakli narsalarni xarid qilishga bozor va doʻkonlarga borib kelish mumkin.Buni afzalligi foydalanuvchi charchagan joyida oʻtirib dam olishi mumkin.",
+        "ru": "Четырёхколёсный роллатор облегчает передвижение пожилых людей и пациентов в период реабилитации дома и на улице. Оснащён регулируемой ручкой, сиденьем, надёжной тормозной системой и корзиной. Позволяет совершать прогулки и при усталости отдыхать сидя."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Material",
+                "value": "metall"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "76"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "68"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "97"
+              },
+              {
+                "label": "Yig’ilgan xolatdagi umumiy uzunligi",
+                "value": "55"
+              },
+              {
+                "label": "O’rindiq kengligi",
+                "value": "38"
+              },
+              {
+                "label": "O’rindiq chuqurligi",
+                "value": "40"
+              },
+              {
+                "label": "Suyanchiq balandligi",
+                "value": "28"
+              },
+              {
+                "label": "Poldan o’rindiqqacha balandlik",
+                "value": "57"
+              },
+              {
+                "label": "Yuk ko’tarish qobiliyati",
+                "value": "80"
+              },
+              {
+                "label": "Old g’ildirak diametric",
+                "value": "18"
+              },
+              {
+                "label": "Orqa g’ildirak diametri",
+                "value": "18"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал",
+                "value": "metall"
+              },
+              {
+                "label": "Общая длина",
+                "value": "76"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "68"
+              },
+              {
+                "label": "Общая высота",
+                "value": "97"
+              },
+              {
+                "label": "Длина в сложенном виде",
+                "value": "55"
+              },
+              {
+                "label": "Ширина сиденья",
+                "value": "38"
+              },
+              {
+                "label": "Глубина сиденья",
+                "value": "40"
+              },
+              {
+                "label": "Высота спинки",
+                "value": "28"
+              },
+              {
+                "label": "Высота от пола до сиденья",
+                "value": "57"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "80"
+              },
+              {
+                "label": "Диаметр переднего колеса",
+                "value": "18"
+              },
+              {
+                "label": "Диаметр заднего колеса",
+                "value": "18"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 41,
+      "orders_count": 100,
+      "images": [
+        "https://images.uzum.uz/cppadp0sarnfdo98gomg/original.jpg",
+        "https://images.uzum.uz/cppadp35qt1gj8dc4j8g/original.jpg",
+        "https://images.uzum.uz/cppadpb6eisq2rkcn430/original.jpg",
+        "https://images.uzum.uz/d4kri3dv2sjnqk4jnp00/original.jpg",
+        "https://images.uzum.uz/d4kri3dv2sjnqk4jnovg/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/sayr-uchun-yurish-moslamasi-rollatorr4-1065341?skuId=3208809",
+      "voucher_program": true
+    },
+    {
+      "id": 1020655,
+      "category": {
+        "uz": "Yurish moslamalari",
+        "ru": "Ходунки и роллаторы"
+      },
+      "title": {
+        "uz": "Tirsak qo`ygichli yurish moslamasi rollator",
+        "ru": "Роллатор с подлокотниками"
+      },
+      "shortDescription": {
+        "uz": "Tirsak qo'ygichli, balandligi sozlanadigan barqaror rollator.",
+        "ru": "Устойчивый роллатор с подлокотниками и регулируемой высотой."
+      },
+      "description": {
+        "uz": "Imkoniyati cheklangan insonlar uchun tirsak qo'ygichli yurish moslamasi (ходунок роллатор) - jismoniy holati tiklanayotgan lekin o'z mushaklari xarakatini to'liq nazorat qila olmayotgan inson uchun eng yaxshi yechimdir. Yurish moslamasi yordamida bemor inson o'z tana muvozanatini saqlashi va xarakatlanish texnikasini qayta o'zlashtirishi mumkin. Imkoniyati cheklangan insonlar uchun yurish moslamalari odatda 4 ta tayanchga ega, balandligi sozlanadigan, yengil materialdan tayyorlangan bo'lib, xarakatlanish imkoniyati cheklanganlar uchun mo'ljallangan.",
+        "ru": "Роллатор с подлокотниками для людей с ограниченными возможностями — оптимальное решение в период восстановления. Имеет 4 опоры, регулируемую высоту и изготовлен из лёгкого материала. Помогает сохранять равновесие и осваивать технику передвижения."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Rama materiali",
+                "value": "Po'lat"
+              },
+              {
+                "label": "Umumiy uzunligi",
+                "value": "73 sm"
+              },
+              {
+                "label": "Umumiy kengligi",
+                "value": "63 sm"
+              },
+              {
+                "label": "Umumiy balandligi",
+                "value": "100-125 sm"
+              },
+              {
+                "label": "Yig'ilgan xolatdagi umumiy kengligi",
+                "value": "15x65x90 sm"
+              },
+              {
+                "label": "Yuk ko'tarish qobilyati",
+                "value": "125 kg"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "12 kg"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Материал рамы",
+                "value": "Сталь"
+              },
+              {
+                "label": "Общая длина",
+                "value": "73 см"
+              },
+              {
+                "label": "Общая ширина",
+                "value": "63 см"
+              },
+              {
+                "label": "Общая высота",
+                "value": "100-125 см"
+              },
+              {
+                "label": "Ширина в сложенном виде",
+                "value": "15x65x90 см"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "125 кг"
+              },
+              {
+                "label": "Вес",
+                "value": "12 кг"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 2,
+      "orders_count": 6,
+      "images": [
+        "https://images.uzum.uz/d7gc70s3obpkks0vudtg/original.jpg",
+        "https://images.uzum.uz/d7gc70q1146ojv9f317g/original.jpg",
+        "https://images.uzum.uz/d7gc70rsv8vghom0ltng/original.jpg",
+        "https://images.uzum.uz/d7gc70rsv8vghom0lto0/original.jpg",
+        "https://images.uzum.uz/d7gc70s3obpkks0vudu0/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/tirsak-qoygichli-yurish-moslamasi-rollator-1020655?skuId=3003402",
+      "voucher_program": false
+    },
+    {
+      "id": 1972066,
+      "category": {
+        "uz": "Elektr aravachalar",
+        "ru": "Электроколяски"
+      },
+      "title": {
+        "uz": "Imkoniyati cheklangan insonlar uchun mo`ljallangan elektr skuter",
+        "ru": "Электроскутер для людей с ограниченными возможностями"
+      },
+      "shortDescription": {
+        "uz": "Uzoq masofalar uchun qulay va xavfsiz elektr skuter.",
+        "ru": "Удобный и безопасный электроскутер для дальних поездок."
+      },
+      "description": {
+        "uz": "Imkoniyati cheklangan insonlar uchun mo`ljallangan elektr skuter qulaylik, xavfsizlik va foydalanish qulayligini o'zida mujassam etgan ideal echimdir. Skuter foydalanuvchining barcha ehtiyojlarini qondirish uchun ishlab chiqilgan bo'lib, uni kundalik hayotda ajralmas yordamchiga aylantiradi.",
+        "ru": "Электроскутер для людей с ограниченными возможностями сочетает комфорт, безопасность и удобство использования. Разработан для удовлетворения повседневных потребностей пользователя и становится незаменимым помощником в быту."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Gabarit o'lchamlari (UzxEnixBal)",
+                "value": "1080x490x940 mm"
+              },
+              {
+                "label": "Batareya",
+                "value": "24V 20Ah"
+              },
+              {
+                "label": "Og'irligi",
+                "value": "40 kg"
+              },
+              {
+                "label": "Maksimal tezlik",
+                "value": "7 km/soat"
+              },
+              {
+                "label": "Tormoz",
+                "value": "Elektromagnit tormoz tizimi"
+              },
+              {
+                "label": "Yuk ko'tarish qobiliyati",
+                "value": "120 kg"
+              },
+              {
+                "label": "Yerdan ramagacha",
+                "value": "80 mm"
+              },
+              {
+                "label": "Shinalar",
+                "value": "197×64 mm"
+              },
+              {
+                "label": "Dvigatel quvvati",
+                "value": "24V 250 Vt"
+              },
+              {
+                "label": "Boshqaruv pulti",
+                "value": "24V 50A"
+              },
+              {
+                "label": "Qiyalik og'ish",
+                "value": "14°"
+              },
+              {
+                "label": "Yugurish masofasi",
+                "value": "16 km"
+              },
+              {
+                "label": "Xavfsizlik kamari",
+                "value": "Bor"
+              },
+              {
+                "label": "Tungi yoritish chiroqlari",
+                "value": "LED"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Габаритные размеры (ДxШxВ)",
+                "value": "1080x490x940 мм"
+              },
+              {
+                "label": "Батарея",
+                "value": "24V 20Ah"
+              },
+              {
+                "label": "Вес",
+                "value": "40 кг"
+              },
+              {
+                "label": "Максимальная скорость",
+                "value": "7 км/ч"
+              },
+              {
+                "label": "Тормоз",
+                "value": "Elektromagnit tormoz tizimi"
+              },
+              {
+                "label": "Грузоподъёмность",
+                "value": "120 кг"
+              },
+              {
+                "label": "От земли до рамы",
+                "value": "80 мм"
+              },
+              {
+                "label": "Шины",
+                "value": "197×64 мм"
+              },
+              {
+                "label": "Мощность двигателя",
+                "value": "24V 250 Vt"
+              },
+              {
+                "label": "Пульт управления",
+                "value": "24V 50A"
+              },
+              {
+                "label": "Угол наклона",
+                "value": "14°"
+              },
+              {
+                "label": "Запас хода",
+                "value": "16 км"
+              },
+              {
+                "label": "Ремень безопасности",
+                "value": "Bor"
+              },
+              {
+                "label": "Ночные фары",
+                "value": "LED"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 0,
+      "reviews_count": 0,
+      "orders_count": 0,
+      "images": [
+        "https://images.uzum.uz/d373uqviub30vbruob5g/original.jpg",
+        "https://images.uzum.uz/d373utviub30vbruob7g/original.jpg",
+        "https://images.uzum.uz/d373v352llnbilep1ts0/original.jpg",
+        "https://images.uzum.uz/d373v0r4eu2s0bgis1s0/original.jpg",
+        "https://images.uzum.uz/d373v852llnbilep1tu0/original.jpg",
+        "https://images.uzum.uz/d373v4viub30vbruob9g/original.jpg",
+        "https://images.uzum.uz/d373v6j4eu2s0bgis1tg/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/imkoniyati-cheklangan-insonlar-1972066?skuId=6970290",
+      "voucher_program": false
+    },
+    {
+      "id": 1140592,
+      "category": {
+        "uz": "Elektr aravachalar",
+        "ru": "Электроколяски"
+      },
+      "title": {
+        "uz": "HG-W680 nogironlar elektron aravachasi",
+        "ru": "Электронная инвалидная коляска HG-W680"
+      },
+      "shortDescription": {
+        "uz": "Quvvatli, uzoq masofaga mo'ljallangan zamonaviy elektr aravacha (HG-W680).",
+        "ru": "Мощная современная электроколяска для дальних расстояний (HG-W680)."
+      },
+      "description": {
+        "uz": "Product Name: Lithium-ion Battery Product Model: 24V20Ah Rated Charge Current: 2ARated voltage: 24VWatt-hour: 432Wh Certification: UN38.3, IEC62133, 2013/56/EU, CE, MSDS, IS09001HG-W680 nogironlar elektron aravachasi nogironlar uchun qulay va samarali transport vositasidir. Ushbu aravacha kuchli elektr motorlar bilan jihozlangan bo'lib, oson boshqaruv va yuqori harakatlanish imkoniyatlarini ta'minlaydi. Ergonomik dizayn va kuchli akkumulyatorlar yordamida foydalanuvchi uzoq masofalarga bemalol yetib borishi mumkin. HG-W680 aravachasi qulay va bardoshli o'rindiqlar, sozlanadigan tayanchlar hamda xavfsizlik kamarlari bilan jihozlangan. Aravacha oson yig'iladi va avtomobilga joylashadi. To'liq quvvat olish uchun 8 soat zarur va bir marta quvvat olgandan keyin 15 km masofani bosib o'tishi mumkin. Batafsil ma'lumot uchun 712021441",
+        "ru": "HG-W680 — удобное и эффективное транспортное средство для людей с ограниченными возможностями. Оснащена мощными электромоторами для лёгкого управления и высокой проходимости. Эргономичный дизайн, регулируемые опоры, ремни безопасности. Легко складывается. Полный заряд за 8 часов, запас хода — 15 км."
+      },
+      "specifications": {
+        "SIZE": {
+          "title": {
+            "uz": "O'lchamlar va xususiyatlar",
+            "ru": "Размеры и характеристики"
+          },
+          "items": {
+            "uz": [
+              {
+                "label": "Akkumulyator",
+                "value": "Litiy-ion 24V 20Ah (432 Wh)"
+              },
+              {
+                "label": "Quvvatlash toki",
+                "value": "2A"
+              },
+              {
+                "label": "To'liq quvvatlash vaqti",
+                "value": "8 soat"
+              },
+              {
+                "label": "Bir quvvatdagi masofa",
+                "value": "15 km"
+              },
+              {
+                "label": "Sertifikatlar",
+                "value": "UN38.3, IEC62133, CE, MSDS, ISO9001"
+              },
+              {
+                "label": "Xususiyatlari",
+                "value": "Sozlanadigan tayanch, xavfsizlik kamari, yig'iladigan"
+              }
+            ],
+            "ru": [
+              {
+                "label": "Аккумулятор",
+                "value": "Литий-ион 24V 20Ah (432 Wh)"
+              },
+              {
+                "label": "Ток зарядки",
+                "value": "2A"
+              },
+              {
+                "label": "Время полной зарядки",
+                "value": "8 часов"
+              },
+              {
+                "label": "Запас хода",
+                "value": "15 км"
+              },
+              {
+                "label": "Сертификаты",
+                "value": "UN38.3, IEC62133, CE, MSDS, ISO9001"
+              },
+              {
+                "label": "Особенности",
+                "value": "Регулируемые опоры, ремень безопасности, складная"
+              }
+            ]
+          }
+        }
+      },
+      "rating": 5,
+      "reviews_count": 167,
+      "orders_count": 1000,
+      "images": [
+        "https://images.uzum.uz/cq7r2okqvss6ad8hm9ng/original.jpg",
+        "https://images.uzum.uz/cq7r2oksslotj05k4i80/original.jpg",
+        "https://images.uzum.uz/cq7r2oksslotj05k4i8g/original.jpg",
+        "https://images.uzum.uz/cq7r2onfrr885gh1l6cg/original.jpg"
+      ],
+      "url": "https://uzum.uz/uz/product/hgw680-nogironlar-elektron-aravachasi-1140592?skuId=3475218",
+      "voucher_program": false
+    }
+  ]
+}
