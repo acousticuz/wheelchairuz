@@ -1,0 +1,84 @@
+# wheelchair.uz — to'liq deploy (postgres + backend + frontend) bitta serverda.
+#
+#   1) cp deploy.env.example .env.production   -> qiymatlarni to'ldiring
+#   2) db/wheelchair_pg_dump.sql faylini shu papkaga qo'ying (mahsulotlar shu yerda)
+#   3) docker compose -f docker-compose.deploy.yml --env-file .env.production up -d --build
+#
+# Postgres BO'SH volume bilan birinchi ko'tarilganda db/wheelchair_pg_dump.sql ni
+# avtomatik tiklaydi (41 mahsulot, kategoriyalar, admin). Keyingi restartlarda
+# volume saqlanib qoladi -> ma'lumot o'chmaydi.
+
+services:
+  # ── PostgreSQL ────────────────────────────────────────────
+  postgres:
+    image: postgres:16-alpine
+    container_name: wheelchair_db_prod
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_DATABASE}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Faqat bo'sh volume da (birinchi marta) ishga tushadi -> dump ni tiklaydi
+      - ./db/wheelchair_pg_dump.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${DB_USERNAME} -d ${DB_DATABASE}']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # ── NestJS Backend (bo'sh portda, faqat ichki) ────────────
+  backend:
+    build:
+      context: ./wheelchair-backend
+      dockerfile: Dockerfile
+    container_name: wheelchair_api_prod
+    restart: unless-stopped
+    env_file:
+      - .env.production
+    environment:
+      # Infra ulanishini majburlaymiz (env_file dagi qiymatlardan ustun turadi)
+      DB_TYPE: postgres
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_SYNC: 'false'          # production: sxema dump dan keladi, TypeORM tegmaydi
+      # SEED_PRODUCTS bilmagan holda -> false. ATAYIN true QILMANG:
+      # u seed ro'yxatida yo'q mahsulotlarni isActive=false qiladi.
+    volumes:
+      - ./wheelchair-backend/uploads:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test:
+        [
+          'CMD-SHELL',
+          'node -e ''fetch("http://127.0.0.1:3000/api/v1/health").then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))''',
+        ]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 25s
+
+  # ── React Frontend (nginx, /api/ va /uploads/ ni backendga proxy) ──
+  frontend:
+    build:
+      context: ./wheelchair-react
+      dockerfile: Dockerfile
+    container_name: wheelchair_web_prod
+    restart: unless-stopped
+    ports:
+      - '${FRONTEND_PUBLISH:-80}:80'
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ['CMD-SHELL', 'wget -q --spider http://127.0.0.1/ || exit 1']
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  pgdata:
